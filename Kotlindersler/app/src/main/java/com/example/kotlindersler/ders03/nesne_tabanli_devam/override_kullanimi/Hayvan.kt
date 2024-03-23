@@ -1,4 +1,4 @@
-package com.example.kotlindersler.ders03.nesne_tabanli.override_kullanimi
+package com.example.kotlindersler.ders03.nesne_tabanli_devam.override_kullanimi
 
 open class Hayvan {
     open fun sesCikar() {

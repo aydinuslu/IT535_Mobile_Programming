@@ -1,4 +1,4 @@
-package com.example.kotlindersler.ders03.nesne_tabanli.kalitim_kullanimi
+package com.example.kotlindersler.ders03.nesne_tabanli_devam.kalitim_kullanimi
 
 fun main() {
     val bogazVilla = Villa(true, 10)

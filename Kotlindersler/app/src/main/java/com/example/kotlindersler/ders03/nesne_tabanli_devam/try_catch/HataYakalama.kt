@@ -1,4 +1,4 @@
-package com.example.kotlindersler.ders03.nesne_tabanli.try_catch
+package com.example.kotlindersler.ders03.nesne_tabanli_devam.try_catch
 
 fun main() {
 

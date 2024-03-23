@@ -1,4 +1,4 @@
-package com.example.kotlindersler.ders03.nesne_tabanli.interface_kullanimi
+package com.example.kotlindersler.ders03.nesne_tabanli_devam.interface_kullanimi
 
 fun main() {
     val mClass = MClass()

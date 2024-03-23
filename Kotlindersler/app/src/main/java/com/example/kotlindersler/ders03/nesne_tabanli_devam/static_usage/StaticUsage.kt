@@ -1,4 +1,4 @@
-package com.example.kotlindersler.ders03.nesne_tabanli.static_usage
+package com.example.kotlindersler.ders03.nesne_tabanli_devam.static_usage
 
 fun main() {
     val myClass = MyClass()

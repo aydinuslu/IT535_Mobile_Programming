@@ -1,4 +1,4 @@
-package com.example.kotlindersler.ders03.nesne_tabanli.collections
+package com.example.kotlindersler.ders03.nesne_tabanli_devam.collections
 
 fun main() {
     val iller = HashMap<Int, String>()
