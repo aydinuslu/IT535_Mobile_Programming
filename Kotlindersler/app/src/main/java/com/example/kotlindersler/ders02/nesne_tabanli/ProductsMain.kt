@@ -1,4 +1,4 @@
-package com.example.kotlindersler.nesne_tabanli
+package com.example.kotlindersler.ders02.nesne_tabanli
 
 fun main() {
 

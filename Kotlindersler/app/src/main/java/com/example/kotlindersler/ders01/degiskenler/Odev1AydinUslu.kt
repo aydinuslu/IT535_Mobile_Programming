@@ -1,4 +1,4 @@
-package com.example.kotlindersler.degiskenler
+package com.example.kotlindersler.ders01.degiskenler
 
 fun main(){
     val ilce = "Kadıkoy"

@@ -1,4 +1,4 @@
-package com.example.kotlindersler.nesne_tabanli.package1
+package com.example.kotlindersler.ders02.nesne_tabanli.package1
 
 open class ClassA {
     var defaultVar = 1 // default access modifier,  = Public

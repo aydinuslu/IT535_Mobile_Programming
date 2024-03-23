@@ -1,4 +1,4 @@
-package com.example.kotlindersler.nesne_tabanli
+package com.example.kotlindersler.ders02.nesne_tabanli
 
 data class Products(var id:Int,var name:String,var price:Int) {
 

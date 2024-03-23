@@ -1,4 +1,4 @@
-package com.example.kotlindersler.standart_programlama
+package com.example.kotlindersler.ders02
 
 fun main() {
     //1,2,3

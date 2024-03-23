@@ -1,6 +1,6 @@
-package com.example.kotlindersler.nesne_tabanli.package2
+package com.example.kotlindersler.ders02.nesne_tabanli.package2
 
-import com.example.kotlindersler.nesne_tabanli.package1.ClassA
+import com.example.kotlindersler.ders02.nesne_tabanli.package1.ClassA
 
 
 /*

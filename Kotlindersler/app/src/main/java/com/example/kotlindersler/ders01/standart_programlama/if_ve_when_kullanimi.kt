@@ -1,4 +1,4 @@
-package com.example.kotlindersler.standart_programlama
+package com.example.kotlindersler.ders01.standart_programlama
 
 fun main() {
     val yas = 17
