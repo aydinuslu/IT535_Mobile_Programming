@@ -10,8 +10,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //R = res klasörü (Kotlin classı içinde
-        //@ = res klasörü (XML dosyası içinde)
+        //R = Res klasörü (Kotlin class ı içinde)
+        //@ = Res klasörü (XML dosyası içinde)
 
     }
 }
